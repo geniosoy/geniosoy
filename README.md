@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @geniosoy
+- 👀 I’m interested in computers and collecting
+- 🌱 I’m currently learning Python, C++, SQL, HTML and CSS at Instituto Politecnico Modelo
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me Im active on twitter @NStchigel or you can message me on my discord @geniosoy
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: ...
