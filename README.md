@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @geniosoy
-- 👀 I’m interested in computers and collecting
-- 🌱 I’m currently learning Python, C++, SQL, HTML and CSS at Instituto Politecnico Modelo
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me Im active on twitter @NStchigel or you can message me on my discord @geniosoy
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: ...
+👋 Hi, I’m Nicolas, an Argentinian currently learning CS at [IPM](https://www.ipm.edu.ar/)
+**Currently Learning/Languages I Know:**
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,mysql,cpp,arduino,bootstrap,git,codepen,robloxstudio,lua,visualstudio)](https://skillicons.dev)
+**Profile Stats:**
+[![Geniosoy's GitHub stats](https://github-readme-stats.vercel.app/api?username=geniosoy)](https://github.com/anuraghazra/github-readme-stats)
