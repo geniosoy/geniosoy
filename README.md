@@ -5,4 +5,4 @@
 [![Geniosoy's GitHub stats](https://github-readme-stats.vercel.app/api?username=geniosoy&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 **My school account:**
-[@Stchigel](github.com/stchigel)
+[@Stchigel](https://www.github.com/stchigel)
