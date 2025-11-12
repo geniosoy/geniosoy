@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Nicolas, an Argentinian currently learning CS at [IPM](https://www.ipm.edu.ar/)
+### 👋 Hi, I’m Nicolas, an Argentinian currently learning CS at [IPM](https://www.ipm.edu.ar/)
 ## Currently Learning/Languages I Know:
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,mysql,cpp,python,arduino,bootstrap,git,codepen,robloxstudio,lua,visualstudio)](https://skillicons.dev)
 ## Certificates:
