@@ -1,6 +1,6 @@
 ### 👋 Hi, I’m Nicolas, an Argentinian currently learning CS at [IPM](https://www.ipm.edu.ar/)
 ## Currently Learning/Languages I Know:
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,mysql,cpp,python,arduino,bootstrap,git,codepen,robloxstudio,lua,visualstudio)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=js,html,css,mysql,cpp,python,arduino,bootstrap,git,codepen,robloxstudio,lua,visualstudio)
 ## Certificates:
 [![Oracle Java Foundations](https://github.com/geniosoy/images/blob/main/download%20(2)%20(1)%20(3)%20(1).png)](https://mylearn.oracle.com/ou/learning-path/oracle-java-foundations/79726)
 [![Networking Basics](https://images.credly.com/size/110x110/images/5bdd6a39-3e03-4444-9510-ecff80c9ce79/image.png)](https://www.credly.com/badges/b7a90165-6bed-42e1-8c7b-cbfaa71ffe42/public_url)
